@@ -53,7 +53,7 @@ global:
     loggingIn: Вход
     loadingResources: Скачивание дополнительных ресурсов (<percentage> %)
     discount: -<percentage>%
-    discountSummerSale: SPECIAL PROMOTION! Offer ends 7 July
+    discountSummerSale: СПЕЦИАЬНОЕ ПРЕДЛОЖЕНИЕ! Заканчивается 7 июля
 demoBanners:
     title: Демоверсия
     intro: >-
@@ -104,7 +104,7 @@ mainMenu:
     noActiveSavegames: Сохранения не найдены - нажмите "Играть", чтобы начать новую игру!
     playFullVersionV2: Приобрели shapez в Steam? Вы можете играть в полную версию
         прямо в Вашем браузере!
-    playFullVersionStandalone: You can now also play the full version in your Browser!
+    playFullVersionStandalone: Вы также можете играть в вашем браузере!    
 dialogs:
     buttons:
         ok: OK
